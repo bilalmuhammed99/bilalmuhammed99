@@ -185,7 +185,7 @@ An **ITI graduate**, I have hands-on experience working in **fintech, e-commerce
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: *([add your LinkedIn URL](https://www.linkedin.com/in/bilal-muhammed-330993129/))*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/bilal-muhammed-330993129/)*
 - 📧 Email: *(belall.mohameed.9@gmail.com)*
 
 ---
