@@ -8,6 +8,27 @@ An **ITI graduate**, I have hands-on experience working in **fintech, e-commerce
 
 ---
 
+
+<table>
+<tr>
+<td align="center">
+  <img src="fintech/dotchat/logo.png" width="80"/><br/>
+  <b>DotChat</b><br/>
+  FinTech<br/>
+  <a href="fintech/dotchat">View</a>
+</td>
+<td align="center">
+  <img src="enterprise/saudi-bulls/logo.png" width="80"/><br/>
+  <b>Saudi Bulls</b><br/>
+  Stock Market<br/>
+  <a href="enterprise/saudi-bulls">View</a>
+</td>
+</tr>
+</table>
+
+
+
+
 ## 🧠 Core Skills
 
 ### 🛠 Tech Stack Badges
