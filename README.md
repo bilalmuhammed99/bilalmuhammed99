@@ -35,8 +35,8 @@ An **ITI graduate**, I have hands-on experience working in **fintech, e-commerce
 
 ## 📊 GitHub Stats
 
-![Belal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Belal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalmuhammed99&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmuhammed99&layout=compact)
 
 ---
 
