@@ -11,6 +11,13 @@ An **ITI graduate**, I have hands-on experience working in **fintech, e-commerce
 
 <table>
 <tr>
+  <td align="center">
+  <img src="https://play-lh.googleusercontent.com/CPDC4lDiToZsmn2azyIKHTuix1x_70H6zwOxIW7Z4lIrEiNhZO9mrFIHk7_cSHQE-CQ=w480" width="80"/><br/>
+  <b>Gravity Re</b><br/>
+  Real Estate<br/>
+  <a href="https://play.google.com/store/apps/details?id=com.gravity.re">Android</a>
+  
+</td>
 <td align="center">
   <img src="https://play-lh.googleusercontent.com/B_ePK1QmIgta4bQBIaCTAJABDA0O3kzdtUT-fKAe3JjgYrwRB95k_F3ZpkXRHTFob0bSKtgyWBl4FI66AgZI=w80"/><br/>
   <b>DotChat</b><br/>
@@ -19,13 +26,7 @@ An **ITI graduate**, I have hands-on experience working in **fintech, e-commerce
   <a href="https://apps.apple.com/eg/app/dotchat/id6465952842">Android</a>
   
 </td>
-<td align="center">
-  <img src="https://play-lh.googleusercontent.com/CPDC4lDiToZsmn2azyIKHTuix1x_70H6zwOxIW7Z4lIrEiNhZO9mrFIHk7_cSHQE-CQ=w480" width="80"/><br/>
-  <b>Gravity Re</b><br/>
-  Real Estate<br/>
-  <a href="https://play.google.com/store/apps/details?id=com.gravity.re">Android</a>
-  
-</td>
+
 </tr>
 </table>
 
