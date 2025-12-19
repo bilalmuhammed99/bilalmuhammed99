@@ -133,53 +133,11 @@ An **ITI graduate**, I have hands-on experience working in **fintech, e-commerce
 
 ---
 
----
-
-## 📂 Portfolio Repository Structure
-
-```text
-mobile-portfolio/
-│
-├── fintech/
-│   └── dotchat/
-│       ├── README.md        # FinTech chat, KYC, TTS, notifications
-│       └── screenshots/
-│
-├── ecommerce/
-│   ├── anaam-world/
-│   └── anaam-alsaman/
-│
-├── real-estate/
-│   └── gravity-real-estate/
-│
-├── education/
-│   ├── jawda-academy/
-│   ├── edumate/
-│   └── mag-academy/
-│
-├── enterprise/
-│   ├── saudi-bulls/
-│   ├── airgate/
-│   └── empowerment/
-│
-└── README.md                # This file
-```
-
-Each project folder should contain:
-- **Project overview**
-- **Tech stack**
-- **Key features & responsibilities**
-- **Screenshots / demo videos**
-- **Store links (if public)**
-
----
-
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: *(add your LinkedIn URL)*
-- 📧 Email: *(add your email)*
+- 💼 LinkedIn: *([add your LinkedIn URL](https://www.linkedin.com/in/bilal-muhammed-330993129/))*
+- 📧 Email: *(belall.mohameed.9@gmail.com)*
 
 ---
 
-⭐ *Feel free to explore my repositories and reach out if you'd like to collaborate or discuss opportunities in mobile development.*
 
