@@ -165,9 +165,6 @@ An **ITI graduate**, I have hands-on experience working in **fintech, e-commerce
 
 - Authentication systems and real-time chat using Pusher.
 
-### **EduMate — Education Management App**  
-*Sep 2021 – Dec 2021 | Android, iOS*
-
 - Role-based access and backend integration.
 
 ### **Mag Academy — Online Learning Platform**  
