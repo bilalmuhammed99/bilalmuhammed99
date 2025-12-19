@@ -20,10 +20,11 @@ An **ITI graduate**, I have hands-on experience working in **fintech, e-commerce
   
 </td>
 <td align="center">
-  <img src="enterprise/saudi-bulls/logo.png" width="80"/><br/>
-  <b>Saudi Bulls</b><br/>
-  Stock Market<br/>
-  <a href="enterprise/saudi-bulls">View</a>
+  <img src="https://play-lh.googleusercontent.com/CPDC4lDiToZsmn2azyIKHTuix1x_70H6zwOxIW7Z4lIrEiNhZO9mrFIHk7_cSHQE-CQ=w480" width="80"/><br/>
+  <b>Gravity Re</b><br/>
+  Real Estate<br/>
+  <a href="https://play.google.com/store/apps/details?id=com.gravity.re">Android</a>
+  
 </td>
 </tr>
 </table>
