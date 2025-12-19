@@ -27,6 +27,31 @@ An **ITI graduate**, I have hands-on experience working in **fintech, e-commerce
   
 </td>
 
+
+<td align="center">
+  <img src="https://play-lh.googleusercontent.com/WEzPtEOP1CgyfeX_hqQ7kFLRGA2J18FTO7B-GtVTU-f5yWn7RC9hoATUSwAxOmahsrfKw_er7ZZUIMUyWhI74A=w80"/><br/>
+  <b>Anaam World</b><br/>
+  LMS<br/>
+  <a href="https://apps.apple.com/eg/app/____-_____/id6754884964">IOS</a>
+  <a href="https://play.google.com/store/apps/details?id=com.anaamworld.app">Android</a>
+  
+  
+</td>
+
+<td align="center">
+  <img src="https://play-lh.googleusercontent.com/2DW8cmwgZCJfrbK0MhEo0PNnN7iV_iVSy7dinpRrTFKwIDXLwCfosGtzkL4Iz1WUV0ym=w80"/><br/>
+  <b>Jawda Academy</b><br/>
+  LMS<br/>
+  <a href="https://apps.apple.com/eg/app/jawda-app/id6736392135">IOS</a>
+  <a href="https://play.google.com/store/apps/details?id=com.jawdakw">Android</a>
+  <a href="https://jawdakw.com/">Web</a>
+  
+  
+</td>
+
+
+
+
 </tr>
 </table>
 
