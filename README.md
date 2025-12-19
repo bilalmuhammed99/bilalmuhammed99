@@ -12,7 +12,7 @@ An **ITI graduate**, I have hands-on experience working in **fintech, e-commerce
 <table>
 <tr>
 <td align="center">
-  <img src="https://play-lh.googleusercontent.com/B_ePK1QmIgta4bQBIaCTAJABDA0O3kzdtUT-fKAe3JjgYrwRB95k_F3ZpkXRHTFob0bSKtgyWBl4FI66AgZI=w480-h960"/><br/>
+  <img src="https://play-lh.googleusercontent.com/B_ePK1QmIgta4bQBIaCTAJABDA0O3kzdtUT-fKAe3JjgYrwRB95k_F3ZpkXRHTFob0bSKtgyWBl4FI66AgZI=w80"/><br/>
   <b>DotChat</b><br/>
   FinTech<br/>
   <a href="https://play.google.com/store/apps/details?id=com.dotchat.alohaa&hl=en">IOS</a>
