@@ -86,7 +86,6 @@ An **ITI graduate**, I have hands-on experience working in **fintech, e-commerce
 ## 📊 GitHub Stats
 
 
-![GitHub Streak](https://streak-stats.demolab.com?username=bilalmuhammed99&theme=default)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilalmuhammed99)
 
 
