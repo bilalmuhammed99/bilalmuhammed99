@@ -37,10 +37,22 @@ An **ITI graduate**, I have hands-on experience working in **fintech, e-commerce
 
 ![Belal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalmuhammed99&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmuhammed99&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME)
+
 
 ---
 
 ## 💼 Professional Experience
+
+### **The Tailors Dev** — *Software Engineer / Mobile Application Developer*  
+**Software House**
+
+- Fixed, refactored, and enhanced **legacy mobile applications already in production**.
+- Built **new mobile apps from scratch**, owning architecture, development, and deployment.
+- Published apps to **Google Play Store** and **Apple App Store**, handling signing and release processes.
+- **Trained and mentored interns**, onboarding them into real projects and reviewing their code.
+
 
 ### **AlohaDot (FinTech)** — *Software Engineer / Mobile Application Developer*
 **Product: DotChat**
@@ -51,13 +63,6 @@ An **ITI graduate**, I have hands-on experience working in **fintech, e-commerce
 - Integrated RESTful APIs and collaborated with designers and backend teams.
 - Worked within an Agile environment and contributed to CI/CD pipelines.
 
-### **The Tailors Dev** — *Software Engineer / Mobile Application Developer*  
-**Software House**
-
-- Fixed, refactored, and enhanced **legacy mobile applications already in production**.
-- Built **new mobile apps from scratch**, owning architecture, development, and deployment.
-- Published apps to **Google Play Store** and **Apple App Store**, handling signing and release processes.
-- **Trained and mentored interns**, onboarding them into real projects and reviewing their code.
 
 ---
 
