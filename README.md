@@ -15,6 +15,8 @@ An **ITI graduate**, I have hands-on experience working in **fintech, e-commerce
   <img src="https://play-lh.googleusercontent.com/XYRrfl31_wMK3APhNMWeMSlVyJeRG1tNrBum-Ndj5PWx0mfvONbsIeQj726Oqeo6jlroDePCXEybm8-rAZ52Xg=w480-h960" width="80" /><br/>
   <b>Lady Way</b><br/>
   Rides & Taxi Service<br/>
+     <a href="https://apps.apple.com/eg/app/ladyway/id6808846214
+LadyWay">IOS</a>
   <a href="https://play.google.com/store/apps/details?id=sa.ladyway.user&hl=ar">Android</a>
   
 
@@ -25,6 +27,7 @@ An **ITI graduate**, I have hands-on experience working in **fintech, e-commerce
   <b>Lady Way Captain </b><br/>
   Rides & Taxi Service<br/>
   <a href="https://play.google.com/store/apps/details?id=sa.ladyway.captain&hl=ar">Android</a>
+   <a href="https://apps.apple.com/eg/app/ladyway-driver/id6808846780">IOS</a>
   
 
 <tr>
