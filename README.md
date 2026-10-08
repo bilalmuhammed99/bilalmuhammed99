@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Belal Mohamed
 
-## 🚀 Mobile Application Developer | Flutter • Android • iOS
+## 🚀 Mobile Application Developer |  Flutter • React Native • Android • iOS
 
 Mobile developer with **4+ years of experience** building high-quality, scalable mobile applications across **Android and iOS**, with **10+ apps published** on the **Google Play Store** and **Apple App Store**. I specialize in **Flutter**, native Android, and cross-platform development, with a strong focus on performance, clean architecture, and intuitive UI/UX.
 
