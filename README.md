@@ -2,7 +2,7 @@
 
 ## 🚀 Mobile Application Developer |   • React Native • Flutter • Android • iOS
 
-Mobile developer with **4+ years of experience** building high-quality, scalable mobile applications across **Android and iOS**, with **10+ apps published** on the **Google Play Store** and **Apple App Store**. I specialize in **Flutter**, native Android, and cross-platform development, with a strong focus on performance, clean architecture, and intuitive UI/UX.
+Mobile developer with **4+ years of experience** building high-quality, scalable mobile applications across **Android and iOS**, with **10+ apps published** on the **Google Play Store** and **Apple App Store**. I specialize in **React Native**  **Flutter**, native Android, and cross-platform development, with a strong focus on performance, clean architecture, and intuitive UI/UX.
 
 An **ITI graduate**, I have hands-on experience working in **fintech, e-commerce, real estate, education, and enterprise applications**, contributing to products from early concept to production release.
 
